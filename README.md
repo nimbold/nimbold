@@ -1,17 +1,17 @@
-# Hi there, I'm Nima! 👋
+# Hi there, I'm Nima 👋
 
-I hold a degree in Software Engineering, but for a long time, traditional syntax drills kept me stuck at the "lists and dictionaries" level. Now, I'm leveraging AI to break through that barrier, bridge theory with practice, and turn my coding journey into an active game. 
+Welcome to my profile. I hold a Bachelor’s degree in Software Engineering, which provided me with a strong foundation in system logic. Currently, I am focused on bridging the gap between theory and practical development. As a novice in Python and hands-on programming, I am leveraging modern AI tools as collaborative learning mechanisms to aggressively deepen my coding expertise and build software from the ground up.
 
-I’m currently building **LifeXP**, a gamified task management application designed to track real-world personal growth and progress through code. 
+I am currently developing **LifeXP**, a gamified task management application designed to track personal growth, habit formation, and productivity through structured code.
 
-### 🛠️ What I'm Up To
-- 🎮 **Project:** Developing [LifeXP](https://github.com/nimbold/LifeXP) — turning real-life tasks into experience points, levels, and achievements.
-- 🐍 **Tech Stack:** Python, `uv`, VS Code, and strategic AI prompting to learn deep codebase structures.
-- 🚀 **Goal:** Accumulating green tiles on my activity map and turning code into a habit.
+### 🛠️ Technical Focus & Projects
+- 💻 **Active Project:** [LifeXP](https://github.com/nimbold/LifeXP) – A Python-based application that translates real-world objectives into experiential progress, level-up logic, and dynamic achievements.
+- 🔧 **Tooling & Environment:** Developed using Python, managed with `uv`, and built within VS Code, utilizing comprehensive documentation and code analysis to learn best practices along the way.
+- 📈 **Objective:** Maintaining a consistent development cadence, refining my codebase architecture, and documenting my progress transparently on GitHub.
 
-### 📊 My Current Stats
-- **Class:** Software Engineer / Python Novice
-- **Active Quest:** Defeating the syntax boss and mastering dynamic application loops.
-- **Buffs:** Thinks in system logic; loves thorough code comments.
+### 📊 Professional Profile
+- **Role:** Software Engineering Graduate & Python Novice
+- **Core Competencies:** System logic, algorithmic thinking, and AI-assisted rapid prototyping.
+- **Current Milestone:** Building foundational programming habits, mastering dynamic application loops, and transitioning from abstract concepts to execution.
 
-*"The best way to predict the future is to vibe-code it."*
+*"Consistency in code yields compounding progress."*
