@@ -6,9 +6,9 @@ I hold a Bachelor’s degree in Software Engineering, which gave me a strong fou
 
 ### 🛠️ Featured Projects
 
-- 🎮 **[LifeXP](https://github.com/nimbold/LifeXP)** – A dynamic, gamified desktop application that turns real-life habits and productivity tasks into an engaging RPG-style progression system. Built with Python and Tkinter using a highly modular mixin architecture.
 - ⚡ **[Firelink](https://github.com/nimbold/Firelink)** – A native, high-speed macOS download manager designed specifically for Apple Silicon in Swift and SwiftUI. Uses `aria2c` under the hood for concurrent, multi-segmented transfer speeds.
 - 🧩 **[Firelink Companion](https://github.com/nimbold/Firelink-Extension)** – A browser extension that seamlessly intercepts downloads and routes them directly to Firelink.
+- 🎮 **[LifeXP](https://github.com/nimbold/LifeXP)** – A dynamic, gamified desktop application that turns real-life habits and productivity tasks into an engaging RPG-style progression system. Built with Python and Tkinter using a highly modular mixin architecture.
 
 ---
 
